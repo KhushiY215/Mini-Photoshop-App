@@ -1,4 +1,4 @@
-# 🖌️ Mini Photoshop App
+#  Mini Photoshop App
 
 A web-based photo editor built using **Streamlit** and **OpenCV**, offering basic Photoshop-like features — all accessible from your browser! Upload an image and start editing instantly with filters, cropping, drawing, and text overlay.
 
@@ -48,11 +48,15 @@ pip install -r requirements.txt
 ```
 ✅ Recommended Python version: 3.8 to 3.10
 
+---
+
 ## ▶️ 2. Run the App
 ```bash
 streamlit run app.py
 ```
 Then open http://localhost:8501 in your browser.
+
+---
 
 ## 📦 Requirements
 - streamlit
@@ -63,6 +67,7 @@ Then open http://localhost:8501 in your browser.
 
 All included in requirements.txt
 
+---
 
 ## 🧠 Future Improvements
 - Image resizing and rotation tools
@@ -73,10 +78,17 @@ All included in requirements.txt
 
 - Save session history
 
-🤝 Contributing
-Pull requests are welcome! If you’d like to suggest new features or report a bug, please open an issue.
+---
 
-📜 License
+## 🤝 Contributing
+  
+  Pull requests are welcome! If you’d like to suggest new features or report a bug, please open an issue.
+
+---
+
+## 📜 License
 This project is open-source and available under the MIT License.
+
+---
 
 Built by Khushi❤🤟
